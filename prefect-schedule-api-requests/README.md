@@ -11,3 +11,4 @@ This is just a simple installation for running the flow locally. Check out my bl
 - Activate the virtual environment with `source venv/bin/activate`
 - Install the dependencies with `pip install -r requirements.txt`
 - Run the flow with `python flows/suggest_activity.py`
+- In order to deploy the flow, run `python deploy.py`
